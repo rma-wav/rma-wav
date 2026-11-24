@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80" role="img" aria-label="Footer">
+<style>
+:root{--bone:#444444;--muted:#888888;--line:#CCCCCC}
+@media (prefers-color-scheme: dark){:root{--bone:#DDDDDD;--muted:#999999;--line:#333333}}
+text{font-family:ui-monospace,SF Mono,Menlo,Consolas,monospace;fill:var(--bone)}
+.m{font-size:12px;fill:var(--muted);letter-spacing:1px}
+line{stroke:var(--line);stroke-width:1}
+</style>
+<line x1="40" y1="12" x2="960" y2="12"/>
+<text x="40" y="42" class="m">VENC.CLOUD · INDONESIA — 6.20° S, 106.85° E · © 2026</text>
+<text x="40" y="66" class="m">TEDDY RAMADHAN · FOUNDER OF VENC</text>
+</svg>
