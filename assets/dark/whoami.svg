@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-label="About Teddy Ramadhan">
+<style>
+  :root{--bone:#444444}
+  @media (prefers-color-scheme: dark){:root{--bone:#DDDDDD}}
+  text{font-family:ui-monospace,SF Mono,Menlo,Consolas,monospace;fill:var(--bone)}
+  .v{font-size:16px}
+</style>
+<text x="40" y="45" class="v">Teddy Ramadhan</text>
+<text x="40" y="75" class="v">Founder of VENC</text>
+</svg>
