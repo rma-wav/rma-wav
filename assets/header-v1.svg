@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Teddy Ramadhan">
+<style>
+  :root{--bone:#444444;--muted:#888888;--line:#CCCCCC}
+  @media (prefers-color-scheme: dark){:root{--bone:#DDDDDD;--muted:#999999;--line:#333333}}
+  text{font-family:ui-monospace,SF Mono,Menlo,Consolas,monospace;fill:var(--bone)}
+  .small{font-size:13px;letter-spacing:2px;fill:var(--muted)}
+  .name{font-size:72px;font-weight:700;letter-spacing:-2px}
+  .sub{font-size:20px;fill:var(--muted)}
+  line{stroke:var(--line);stroke-width:1}
+</style>
+<text x="40" y="36" class="small">PORTFOLIO — INDEX Nº 001</text>
+<text x="960" y="36" text-anchor="end" class="small">INDONESIA — 6.20° S, 106.85° E</text>
+<line x1="40" y1="52" x2="960" y2="52"/>
+<text x="40" y="125" class="name">Teddy Ramadhan</text>
+<text x="40" y="165" class="sub">Founder of VENC</text>
+<line x1="40" y1="195" x2="960" y2="195"/>
+</svg>

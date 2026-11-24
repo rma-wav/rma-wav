@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Technical stack">
+<style>
+  :root{--bone:#444444}
+  @media (prefers-color-scheme: dark){:root{--bone:#DDDDDD}}
+  text{font-family:ui-monospace,SF Mono,Menlo,Consolas,monospace;fill:var(--bone)}
+  .v{font-size:16px}
+</style>
+<text x="40" y="35" class="v">Python</text>
+<text x="40" y="65" class="v">SQL</text>
+<text x="40" y="95" class="v">pandas</text>
+<text x="40" y="125" class="v">NumPy</text>
+<text x="40" y="155" class="v">Matplotlib</text>
+<text x="40" y="185" class="v">Seaborn</text>
+<text x="40" y="215" class="v">scikit-learn</text>
+<text x="40" y="245" class="v">Vercel</text>
+<text x="40" y="275" class="v">Supabase</text>
+</svg>
